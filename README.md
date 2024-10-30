@@ -6,6 +6,10 @@
 
 ![Alvaro GitHub stats](https://github-readme-stats.vercel.app/api?username=allvzz&show_icons=true&theme=dark)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allvzz&hide_progress=true&theme=dark)
+
+
+
 ## Com o que eu trabalho? Veja abaixo
 
 <div style="display: inline_block"><br/>
