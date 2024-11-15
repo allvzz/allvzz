@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<p align="left">- System Developer Student<br>- Python Dev<br>- Front End Dev</p>
+<p align="left">- System Developer Student<br>- Python Dev<br>- Full Stack Dev</p>
 
 ###
 
