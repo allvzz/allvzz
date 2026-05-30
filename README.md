@@ -23,7 +23,7 @@ Addicted to coffee
 
 ---
 
-## 📊 Stats
+##  Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=allvzz&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
 
@@ -31,7 +31,7 @@ Addicted to coffee
 
 ---
 
-## 📫 Contact
+## Contact
 
 - 🌐 [Website](?)
 - 📧 [Email](mailto:a.antoonn0@gmail.com)
@@ -45,5 +45,5 @@ Addicted to coffee
 ---
 
 ```bash
-$ echo "Thanks for visiting! ⭐"
+$ echo "Thanks for visiting!"
 ```
