@@ -35,7 +35,7 @@ Addicted to coffee
 
 - 🌐 [Website](?)
 - 📧 [Email](mailto:a.antoonn0@gmail.com)
-- 💼 [LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/aantonio1?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+- 💼 [LinkedIn](https://www.linkedin.com/in/aantonio1)
 - 🐙 [GitHub](https://github.com/allvzz)
 
 ---
