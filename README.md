@@ -40,9 +40,6 @@ Addicted to coffee
 
 ---
 
----
-
----
 
 ```bash
 $ echo "Thanks for visiting!"
