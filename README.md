@@ -1,56 +1,49 @@
-<h1 align="left">About Me</h1>
+```bash
+$ whoami
+Álvaro Antônio
 
-###
+$ cat about.txt
+Hello, my name is Álvaro Antônio, I am a Full Stack developer seeking expertise in computer networking and cybersecurity. I love learning new languages, both in programming and in life, and I am fluent in English and Spanish.
 
-<p align="left">- System Developer Student<br>- Full Stack Dev</p>
+$ pwd
+Salvador, Ba @ 
 
-###
+$ ls skills/
+JavaScript | Java | Python | Git | HTML | CSS | Data analysis | Communication | Strategic vision | Adaptability | Analysis of statistical data
 
-<h2 align="left">Techs</h2>
+$ cat learning.txt
+Diving deeper into Computer Networks and Cybersecurity to enhance my skill set.
 
-###
+$ cat interests.txt
+System Development, Logistics Solutions, or Data Analysis Techniques.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-</div>
+$ fortune
+Addicted to coffee
+```
 
-###
+---
 
-<h2 align="left"></h2>
+## 📊 Stats
 
-###
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=allvzz&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=allvzz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=allvzz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=allvzz&theme=github-dark-blue&hide_border=true&background=0d1117)](https://git.io/streak-stats)
 
-###
+---
 
-<h2 align="left">Social Media</h2>
+## 📫 Contact
 
-###
+- 🌐 [Website](?)
+- 📧 [Email](mailto:a.antoonn0@gmail.com)
+- 💼 [LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/aantonio1?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+- 🐙 [GitHub](https://github.com/allvzz)
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/allvzz?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://discord.gg/PJcRzY8vh5" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="a.antoonn0@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
+---
 
-###
+---
+
+---
+
+```bash
+$ echo "Thanks for visiting! ⭐"
+```
